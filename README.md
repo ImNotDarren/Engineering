@@ -23,8 +23,8 @@
 * **Pandas** for exploratory data analysis
 * **Matplotlib** and **Seaborn** for plotting
 * **PyTorch** for building neural network
-* **Node.JS** for React front-end
-* **Spring Boot** for back-end
+* **React.JS** for front-end development
+* **Spring Boot** and **Flask** for back-end development
 * **AWS** for deployment
 * **Pickle** for saving regression models in a pickle file
 
