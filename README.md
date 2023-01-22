@@ -21,12 +21,11 @@
 ## <a name="link-part-5">Tools</a>
 
 * **Pandas** for exploratory data analysis
-* **Matplotlib** and **Seaborn** for plotting
 * **PyTorch** for building neural network
 * **React.JS** for front-end development
+* **React-plotly.js** for plotting
 * **Spring Boot** and **Flask** for back-end development
 * **AWS** for deployment
-* **Pickle** for saving regression models in a pickle file
 
 ## <a name="link-part-6">Communication</a>
 
