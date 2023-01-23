@@ -68,7 +68,7 @@ will deploy it to one of the servers in Emory University in the future.
 * **React.JS** for front-end development
 * **React-plotly.js** for plotting
 * **Spring Boot** and **Flask** for back-end development
-* **AWS** for deployment
+* **AWS** and **Apache2** for deployment
 
 ## <a name="link-part-6">Communication</a>
 
