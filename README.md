@@ -45,7 +45,8 @@ There's a dropbox on the model page which allows users to drag and drop their fi
 dropbox to upload them. The front-end will check if the user only submits one file instead of
 multiple and if the file is in correct format. If it doesn't satisfy the requirements, an
 error message will be displayed on the page. Otherwise the front-end will post the file to
-the Flask back-end.
+the Flask back-end. It then receives the result from the back-end and display the results as
+well as plotting the signals provided by the user using Plotly.js.
 
 - Back-end development
 
@@ -56,10 +57,9 @@ model's output (classification result and confidence) back to the front-end page
 
 - Model deploy
 
-I was going to deploy it to AWS, but due to the
-model and related packages being too big, it wasn't able to fit into AWS free tire. Hence, I'm
-only testing it on my local machine now and will deploy it to one of the servers in Emory
-University in the future.
+I was going to deploy it to AWS, but due to the model and related packages being too big, it
+wasn't able to fit into AWS free tire. Hence, I'm only testing it on my local machine now and
+will deploy it to one of the servers in Emory University in the future.
 
 ## <a name="link-part-5">Tools</a>
 
@@ -73,6 +73,8 @@ University in the future.
 ## <a name="link-part-6">Communication</a>
 
 The project proposal is shown [here](/documents/proposal.md).
+
+The MVP document shown [here](/documents/MVP.md).
 
 ## <a name="link-part-7">How to run</a>
 
