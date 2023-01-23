@@ -72,6 +72,12 @@ will deploy it to one of the servers in Emory University in the future.
 
 ## <a name="link-part-6">Communication</a>
 
+<div align="center">
+    <img src="imgs/page_1.png" style="width: 100%;" />
+    <img src="imgs/page_2.png" style="width: 100%;" />
+    <img src="imgs/page_3.png" style="width: 100%;" />
+</div>
+
 The project proposal is shown [here](/documents/proposal.md).
 
 The MVP document shown [here](/documents/MVP.md).
