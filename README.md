@@ -23,6 +23,14 @@ The data is sourced from UCLA's clinical dataset. It's a huge dataset with more 
 
 ## <a name="link-part-4">Algorithm</a>
 
+Models
+
+I built a Resnet 34 model and trained it on Emory University's lab machine.
+
+Front-end development
+
+The front-end page is developed using React.js, which is a very popular front-end technique. 
+
 ## <a name="link-part-5">Tools</a>
 
 * **Pandas** for exploratory data analysis
