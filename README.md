@@ -102,6 +102,6 @@ Then start the server:
 $ npm start
 ```
 
-The page will be available at [localhost:3000](http://localhost:3000).
+The page will be available at [http://localhost:3000](http://localhost:3000).
 
-The model page will be available at [localhost:3000/publications/afib](http://localhost:3000/publications/afib).
+The model page will be available at [http://localhost:3000/publications/afib](http://localhost:3000/publications/afib).
