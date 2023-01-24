@@ -38,7 +38,7 @@ of PPG signals recorded from different hospitals and devices.
 I built a Resnet 34 model with a Phd student in GT and trained it on Emory University's lab
 machine.
 
-- Front-end development
+- Front-end development (front-end code is [here](./Front-end))
 
 The front-end page is developed using React.js, which is a very popular front-end technique.
 There's a dropbox on the model page which allows users to drag and drop their files into the
@@ -48,7 +48,7 @@ error message will be displayed on the page. Otherwise the front-end will post t
 the Flask back-end. It then receives the result from the back-end and display the results as
 well as plotting the signals provided by the user using Plotly.js.
 
-- Back-end development
+- Back-end development (back-end code is [here](./Back-end))
 
 The back-end server is developed using Flask. It receives the file posted by the front-end page
 and convert it into a numpy array. Then it will convert each element of the numpy array (each
