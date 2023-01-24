@@ -105,3 +105,21 @@ $ npm start
 The page will be available at [http://localhost:3000](http://localhost:3000).
 
 The model page will be available at [http://localhost:3000/publications/afib](http://localhost:3000/publications/afib).
+
+For back-end page:
+
+Install Apache2 by running:
+
+```
+$ sudo apt install apache2
+```
+
+Then place the Back-end folder under /var/www/html if you're using Linux.
+
+Then run this command to start the server:
+
+```
+$ service apache2 reload
+```
+
+Finally you can change the `python_server` varible to be your Linux system's IP address.
