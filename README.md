@@ -84,4 +84,24 @@ The MVP document shown [here](/documents/MVP.md).
 
 ## <a name="link-part-7">How to run</a>
 
-To view the webpage, visit [this link](https://blog.darren.com/publications)(not finished yet, may show an error page now).
+For font-end page:
+
+```
+$ cd Front-end
+```
+
+Then install packages by running:
+
+```
+$ npm install
+```
+
+Then start the server:
+
+```
+$ npm start
+```
+
+The page will be available at [localhost:3000](http://localhost:3000).
+
+The model page will be available at [localhost:3000/publications/afib](http://localhost:3000/publications/afib).
